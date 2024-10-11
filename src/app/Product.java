@@ -1,8 +1,6 @@
 package app;
 
-// Клас-модель товару
 public class Product {
-
     String name;
     int quota;
     double price;
